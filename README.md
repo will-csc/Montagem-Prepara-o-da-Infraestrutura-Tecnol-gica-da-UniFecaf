@@ -43,11 +43,11 @@ Este repositório documenta minha experiência prática em **análise crítica**
 Análise de problema gerado na copia e resolução
 
 *Instalação/Clonagem via Clonezila*
-![Imagem do processo de instalação](https://github.com/will-csc/Montagem-Prepara-o-da-Infraestrutura-Tecnol-gica-da-UniFecaf/blob/main/Computadores%20Finalizados.jpeg)
+![Imagem do processo de instalação](https://github.com/will-csc/Montagem-Prepara-o-da-Infraestrutura-Tecnol-gica-da-UniFecaf/blob/main/Instala%C3%A7%C3%A3o%20e%20Hardware.jpeg)
 Instalação do OS via clonezila utilizando HD
 
 *Computadores Finalizados*
-![Imagem do processo de instalação](https://github.com/will-csc/Montagem-Prepara-o-da-Infraestrutura-Tecnol-gica-da-UniFecaf/blob/main/Instala%C3%A7%C3%A3o%20e%20Hardware.jpeg)
+![Imagem do processo de instalação](https://github.com/will-csc/Montagem-Prepara-o-da-Infraestrutura-Tecnol-gica-da-UniFecaf/blob/main/Computadores%20Finalizados.jpeg)
 Foto dos computadores após toda instalação e preparação dos sistemas
 
 ---
