@@ -77,7 +77,7 @@ Agradeço à equipe da FECAF pela oportunidade de aplicar e aprimorar meus conhe
 ## 📫 **Contato**
 
 Se quiser saber mais sobre o projeto ou discutir oportunidades, entre em contato:  
-- 📧 Email: williamcscarvalho2025@pm.me  
+- 📧 Email: williamcscarvalho2025@pm.me  | william.cesarbds2016@gmail.com
 - 🔗 LinkedIn: [William César](https://www.linkedin.com/in/william-cesar-7b7b89202/)
 
 ---
